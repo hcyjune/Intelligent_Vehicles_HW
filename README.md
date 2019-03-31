@@ -1,2 +1,4 @@
 # Intelligent_Vehicles_HW
-Simulated annealing
+For problem descriptions, please see:  
+Homework 1 problem 4 and  
+Homework 2 problem 3 (Simulated annealing)
